@@ -51,5 +51,8 @@
     "jsdoc": "^4.0.4",
     "terser": "^5.37.0",
     "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "phaser": "^3.88.2"
   }
 }
